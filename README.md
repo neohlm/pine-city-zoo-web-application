@@ -2,7 +2,7 @@
 
 # 🏞️ Pine City Zoo Web Application
 
-Welcome to the **Pine City Zoo**, a fully client-side web experience built using only HTML and CSS. This interactive site is designed to guide visitors through the zoo’s attractions, provide useful information, and showcase the vibrant life within Pine City Zoo.
+Welcome to the **Pine City Zoo**, a fully client-side web experience built using only HTML and CSS. This interactive site is designed to guide visitors through the zoo’s attractions, provide useful information and showcase the vibrant life within Pine City Zoo.
 
 ## 📌 Features
 
@@ -13,13 +13,13 @@ Welcome to the **Pine City Zoo**, a fully client-side web experience built using
   Shows current weather conditions to help visitors plan their visit.
 
 - **Animals Page** (`animals.html`)  
-  Features a gallery of animals with dedicated pages for lions, gorillas, pandas, and more.
+  Features a gallery of animals with dedicated pages for lions, gorillas, pandas and more.
 
 - **Feedback Page** (`feedback.html`)  
   Allows visitors to submit feedback and view confirmation prompts.
 
 - **Places Page** (`places.html`)  
-  Highlights restaurants, cafés, and sightseeing spots like the amphitheatre and monkey trail.
+  Highlights restaurants, cafés and sightseeing spots like the amphitheatre and monkey trail.
 
 ## 🖼️ Screenshots
 
@@ -38,6 +38,17 @@ Welcome to the **Pine City Zoo**, a fully client-side web experience built using
 | HTML     | Page structure and content |
 | CSS      | Styling, layout, and visual effects |
 
-## 📂 File Structure
+## 👨‍💻 Developer
+
+Created by **Neo ‘Roro’ Hlumbene**  
+A creative front-end developer passionate about interactive design, animations and user experience.
+
+## 💡 Notes
+
+- This project is static and does not use JavaScript or server-side technologies.
+- Feedback submission is simulated with a confirmation page (`message-received.html`).
+- Each animal has its own dedicated HTML page for detailed viewing.
+
+
 
 
