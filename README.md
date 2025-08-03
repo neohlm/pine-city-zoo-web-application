@@ -25,11 +25,11 @@ Welcome to the **Pine City Zoo**, a fully client-side web experience built using
 
 | Page | Preview |
 |------|---------|
-| Home | ![Home Page](images/home_page.png) |
-| Weather | ![Weather Page](images/weather_page.png) |
-| Animals | ![Animals Page](images/animals_page.png) |
-| Feedback | ![Feedback Page](images/feedback_page.png) |
-| Places | ![Places Page](images/places_page.png) |
+| Home | ![Home Page](home_page.png) |
+| Weather | ![Weather Page](weather_page.png) |
+| Animals | ![Animals Page](animals_page.png) |
+| Feedback | ![Feedback Page](feedback_page.png) |
+| Places | ![Places Page](places_page.png) |
 
 ## 🛠️ Technologies Used
 
