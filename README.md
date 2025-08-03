@@ -1,3 +1,43 @@
-# Pine City Zoo Web Based Application
 
-## Overview
+
+# 🏞️ Pine City Zoo Web Application
+
+Welcome to the **Pine City Zoo**, a fully client-side web experience built using only HTML and CSS. This interactive site is designed to guide visitors through the zoo’s attractions, provide useful information, and showcase the vibrant life within Pine City Zoo.
+
+## 📌 Features
+
+- **Home Page** (`index.html`)  
+  Displays a visual map of the zoo for easy navigation.
+
+- **Weather Page** (`weather.html`)  
+  Shows current weather conditions to help visitors plan their visit.
+
+- **Animals Page** (`animals.html`)  
+  Features a gallery of animals with dedicated pages for lions, gorillas, pandas, and more.
+
+- **Feedback Page** (`feedback.html`)  
+  Allows visitors to submit feedback and view confirmation prompts.
+
+- **Places Page** (`places.html`)  
+  Highlights restaurants, cafés, and sightseeing spots like the amphitheatre and monkey trail.
+
+## 🖼️ Screenshots
+
+| Page | Preview |
+|------|---------|
+| Home | ![Home Page](images/home_page.png) |
+| Weather | ![Weather Page](images/weather_page.png) |
+| Animals | ![Animals Page](images/animals_page.png) |
+| Feedback | ![Feedback Page](images/feedback_page.png) |
+| Places | ![Places Page](images/places_page.png) |
+
+## 🛠️ Technologies Used
+
+| Language | Purpose |
+|----------|---------|
+| HTML     | Page structure and content |
+| CSS      | Styling, layout, and visual effects |
+
+## 📂 File Structure
+
+
