@@ -38,6 +38,9 @@ Welcome to the **Pine City Zoo**, a fully client-side web experience built using
 | HTML     | Page structure and content |
 | CSS      | Styling, layout, and visual effects |
 
+## To view project live:
+https://neohlm.github.io/pine-city-zoo-web-application/
+
 ## 👨‍💻 Developer
 
 Created by **Neo ‘Roro’ Hlumbene**  
